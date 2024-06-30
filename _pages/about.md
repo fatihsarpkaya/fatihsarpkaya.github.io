@@ -13,7 +13,4 @@ Hi, I am Fatih! I am a second-year PhD Candidate in Electrical Engineering at [N
 
 I received my Bachelor of Science degree in [Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) from Bilkent University in 2022.
 
-Here’s my résumé.
-
-
-
+Here’s my [résumé](files/Fatih_Berkay_Sarpkaya_CV.pdf).
