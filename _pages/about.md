@@ -20,6 +20,11 @@ Publications
    **Fatih Berkay Sarpkaya**, Ashutosh Srivastava, Fraida Fund, Shivendra Panwar                                    
    _ACM/IRTF Applied Networking Research Workshop (ANRW), 2024_
 
+Research Presentations
+======
+
+- [_L4S in Practice: Assessing the Feasibility of Incremental Deployment_](https://docs.google.com/presentation/d/1n0JkIMkP_FWC1M-RsqDRE1Sjmh8HXR08bATMmdJzTvg/edit?usp=sharing) presented at [**KNIT 8: A FABRIC Community Workshop**](https://learn.fabric-testbed.net/knowledge-base/knit-8-a-fabric-community-workshop/)
+
 Industrial Experience
 ======
 
