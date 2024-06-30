@@ -18,6 +18,7 @@ Publications
 
 - **To Switch or Not to Switch to TCP Prague? Incentives for Adoption in a Partial L4S Deployment**  
    **Fatih Berkay Sarpkaya**, Ashutosh Srivastava, Fraida Fund, Shivendra Panwar
+  
    _ACM/IRTF Applied Networking Research Workshop (ANRW), 2024_
 
 Industrial Experience
