@@ -23,7 +23,7 @@ Publications
 Research Presentations
 ======
 
-- [_L4S in Practice: Assessing the Feasibility of Incremental Deployment_](https://fatihsarpkaya.github.io/files/L4S_in_Practice_Assessing_the_Feasibility_of_Incremental_Deployment.pdf) presented at [_**KNIT 8: A FABRIC Community Workshop**_](https://learn.fabric-testbed.net/knowledge-base/knit-8-a-fabric-community-workshop/).
+- [_L4S in Practice: Assessing the Feasibility of Incremental Deployment_](https://fatihsarpkaya.github.io/files/L4S_in_Practice_Assessing_the_Feasibility_of_Incremental_Deployment.pdf) presented at [_**KNIT 8: A FABRIC Community Workshop**_](https://learn.fabric-testbed.net/knowledge-base/knit-8-a-fabric-community-workshop/). (March 2024)
 
 Industrial Experience
 ======
