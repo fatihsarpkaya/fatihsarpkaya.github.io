@@ -23,7 +23,7 @@ Publications
 Research Presentations
 ======
 
-- [_L4S in Practice: Assessing the Feasibility of Incremental Deployment_](/folders/L4S in Practice_ Assessing the Feasibility of Incremental Deployment.pdf) presented at [_**KNIT 8: A FABRIC Community Workshop**_](https://learn.fabric-testbed.net/knowledge-base/knit-8-a-fabric-community-workshop/).
+- [_L4S in Practice: Assessing the Feasibility of Incremental Deployment_](/folders/"L4S in Practice_ Assessing the Feasibility of Incremental Deployment.pdf") presented at [_**KNIT 8: A FABRIC Community Workshop**_](https://learn.fabric-testbed.net/knowledge-base/knit-8-a-fabric-community-workshop/).
 
 Industrial Experience
 ======
