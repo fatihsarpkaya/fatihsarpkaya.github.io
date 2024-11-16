@@ -15,6 +15,10 @@ Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpka
 
 Publications
 ======
+- **To adopt or not to adopt L4S-compatible congestion control? Understanding performance in a partial L4S deployment**  
+  **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
+   _To appear at Passive and Active Measurement (PAM) International Conference, 2025_
+  
 - **Capacity of a Binary Channel with a Time-Bounded Adversary**  
   Mingjun Ying, **Fatih Berkay Sarpkaya**, Serhat Bakirtas, Elza Erkip, Theodore S. Rappaport, and Sundeep Rangan                                    
    _To appear at the Asilomar Conference on Signals, Systems, and Computers, 2024_
