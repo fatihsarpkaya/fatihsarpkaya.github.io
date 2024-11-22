@@ -15,7 +15,7 @@ Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpka
 
 Publications
 ======
-- **To adopt or not to adopt L4S-compatible congestion control? Understanding performance in a partial L4S deployment** [[preprint](https://arxiv.org/abs/2411.10952)] [[poster](https://fatihsarpkaya.github.io/files/Fatih_Berkay Sarpkaya_NYU_WIRELESS_Open_House_2024_Fall_Poster.pdf)]  
+- **To adopt or not to adopt L4S-compatible congestion control? Understanding performance in a partial L4S deployment** [[preprint](https://arxiv.org/abs/2411.10952)] [[poster](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpkaya_NYU_WIRELESS_Open_House_2024_Fall_Poster.pdf)]  
   **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
    _To appear at Passive and Active Measurement (PAM) International Conference, 2025_
   
