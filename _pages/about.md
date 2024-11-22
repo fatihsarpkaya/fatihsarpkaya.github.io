@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+  
 Hi, I am Fatih! I am a third-year PhD Candidate in Electrical Engineering at [NYU WIRELESS](https://wireless.engineering.nyu.edu), New York University, under the supervision of Professor Shivendra Panwar. I received my Bachelor of Science degree in [Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) from Bilkent University in 2022. My current research interests lie in TCP congestion control, low latency networking, and wireless communication. 
 
 Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpkaya_CV.pdf).
