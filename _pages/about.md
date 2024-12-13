@@ -23,7 +23,7 @@ Publications
   Mingjun Ying, **Fatih Berkay Sarpkaya**, Serhat Bakirtas, Elza Erkip, Theodore S. Rappaport, and Sundeep Rangan                                    
    _To appear at the Asilomar Conference on Signals, Systems, and Computers, 2024_
 
-- **To Switch or Not to Switch to TCP Prague? Incentives for Adoption in a Partial L4S Deployment** [[paper](https://dl.acm.org/doi/abs/10.1145/3673422.3674896)] [[slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-anrw-7-1406-1428-to-switch-or-not-to-switch-to-l4s-incentives-for-adopting-l4s-in-a-partial-deployment-f-paper25-slides-00)]  
+- **To Switch or Not to Switch to TCP Prague? Incentives for Adoption in a Partial L4S Deployment** [[paper](https://dl.acm.org/doi/abs/10.1145/3673422.3674896)] [[slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-anrw-7-1406-1428-to-switch-or-not-to-switch-to-l4s-incentives-for-adopting-l4s-in-a-partial-deployment-f-paper25-slides-00)] [[blog](https://learn.fabric-testbed.net/knowledge-base/thread-the-needle-does-l4s-have-a-path-to-deployment/)]  
   **Fatih Berkay Sarpkaya**, Ashutosh Srivastava, Fraida Fund, Shivendra Panwar                                    
    _ACM/IRTF Applied Networking Research Workshop (ANRW), 2024_
 
