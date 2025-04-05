@@ -19,7 +19,7 @@ Publications
   **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
    _To appear at Passive and Active Measurement (PAM) International Conference, 2025_
   
-- **Capacity of a Binary Channel with a Time-Bounded Adversary** [[poster](https://fatihsarpkaya.github.io/files/Poster_Asilomar_Poster-last.pdf)]  
+- **Capacity of a Binary Channel with a Time-Bounded Adversary** [[paper](https://ieeexplore.ieee.org/document/10942906)] [[poster](https://fatihsarpkaya.github.io/files/Poster_Asilomar_Poster-last.pdf)]  
   Mingjun Ying, **Fatih Berkay Sarpkaya**, Serhat Bakirtas, Elza Erkip, Theodore S. Rappaport, and Sundeep Rangan                                    
    _To appear at the Asilomar Conference on Signals, Systems, and Computers, 2024_
 
