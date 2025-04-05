@@ -17,11 +17,11 @@ Publications
 ======
 - **To adopt or not to adopt L4S-compatible congestion control? Understanding performance in a partial L4S deployment** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-85960-1_10)] [[poster](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpkaya_NYU_WIRELESS_Open_House_2024_Fall_Poster.pdf)] [[slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-to-adopt-or-not-to-adopt-l4s-compatible-congestion-control-understanding-performance-in-a-partial-l4s-deployment-01)]  
   **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
-   _To appear at Passive and Active Measurement (PAM) International Conference, 2025_
+   _Passive and Active Measurement (PAM) International Conference, 2025_
   
 - **Capacity of a Binary Channel with a Time-Bounded Adversary** [[paper](https://ieeexplore.ieee.org/document/10942906)] [[poster](https://fatihsarpkaya.github.io/files/Poster_Asilomar_Poster-last.pdf)]  
   Mingjun Ying, **Fatih Berkay Sarpkaya**, Serhat Bakirtas, Elza Erkip, Theodore S. Rappaport, and Sundeep Rangan                                    
-   _To appear at the Asilomar Conference on Signals, Systems, and Computers, 2024_
+   _Asilomar Conference on Signals, Systems, and Computers, 2024_
 
 - **To Switch or Not to Switch to TCP Prague? Incentives for Adoption in a Partial L4S Deployment** [[paper](https://dl.acm.org/doi/abs/10.1145/3673422.3674896)] [[slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-anrw-7-1406-1428-to-switch-or-not-to-switch-to-l4s-incentives-for-adopting-l4s-in-a-partial-deployment-f-paper25-slides-00)] [[blog](https://learn.fabric-testbed.net/knowledge-base/thread-the-needle-does-l4s-have-a-path-to-deployment/)]  
   **Fatih Berkay Sarpkaya**, Ashutosh Srivastava, Fraida Fund, Shivendra Panwar                                    
