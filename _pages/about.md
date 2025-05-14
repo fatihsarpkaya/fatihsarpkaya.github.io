@@ -15,6 +15,10 @@ Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpka
 
 Publications
 ======
+- **BBR’s Sharing Behavior with CUBIC and Reno** [[paper](https://arxiv.org/abs/2505.07741)]  
+  **Fatih Berkay Sarpkaya**, Ashutosh Srivastava, Fraida Fund, Shivendra Panwar                                    
+   _International Federation for Information Processing (IFIP) Networking, 2025_
+  
 - **To adopt or not to adopt L4S-compatible congestion control? Understanding performance in a partial L4S deployment** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-85960-1_10)] [[poster](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpkaya_NYU_WIRELESS_Open_House_2024_Fall_Poster.pdf)] [[slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-to-adopt-or-not-to-adopt-l4s-compatible-congestion-control-understanding-performance-in-a-partial-l4s-deployment-01)]  
   **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
    _Passive and Active Measurement (PAM) International Conference, 2025_
@@ -35,11 +39,15 @@ Publications
 Research Presentations
 ======
 
+- [_To adopt or not to adopt L4S-compatible congestion control? Understanding performance in a partial L4S deployment_](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-to-adopt-or-not-to-adopt-l4s-compatible-congestion-control-understanding-performance-in-a-partial-l4s-deployment-01.pdf), presented at [_**IETF122 - Measurement & Analysis for Protocols Research Group
+(MAPRG) meeting**_](https://datatracker.ietf.org/meeting/122/proceedings) (March 2025)
+
 - [_L4S in Practice: Assessing the Feasibility of Incremental Deployment_](https://fatihsarpkaya.github.io/files/L4S_in_Practice_Assessing_the_Feasibility_of_Incremental_Deployment.pdf), presented at [_**KNIT 8: A FABRIC Community Workshop**_](https://learn.fabric-testbed.net/knowledge-base/knit-8-a-fabric-community-workshop/) (March 2024)
 
 Industrial Experience
 ======
 
+- Network Reliability Research Intern at **Nokia Bell Labs** (Summer 2025)
 - R&I Wireless Intern at **InterDigital** (Summer 2024)
 
 Services and Teaching Experience
