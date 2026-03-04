@@ -15,6 +15,10 @@ Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpka
 
 Publications
 ======
+- **Evaluation of TCP Congestion Control for Public High-Performance Wide-Area Networks**
+  **Fatih Berkay Sarpkaya**, Andrea Francini, Bilgehan Erman, Shivendra Panwar                                    
+   _IEEE High-Performance Switching and Routing (HPSR), 2026_
+  
 - **BBR’s Sharing Behavior with CUBIC and Reno** [[paper](https://arxiv.org/abs/2505.07741)]  
   **Fatih Berkay Sarpkaya**, Ashutosh Srivastava, Fraida Fund, Shivendra Panwar                                    
    _International Federation for Information Processing (IFIP) Networking, 2025_
