@@ -19,7 +19,7 @@ Publications
   **Fatih Berkay Sarpkaya**, Andrea Francini, Bilgehan Erman, Shivendra Panwar                                    
    _IEEE High-Performance Switching and Routing (HPSR), 2026_
   
-- **BBR’s Sharing Behavior with CUBIC and Reno** [[paper](https://arxiv.org/abs/2505.07741)]  
+- **BBR’s Sharing Behavior with CUBIC and Reno** [[paper](https://networking.ifip.org/2025/images/Net25_papers/1571127277.pdf)]  
   **Fatih Berkay Sarpkaya**, Ashutosh Srivastava, Fraida Fund, Shivendra Panwar                                    
    _International Federation for Information Processing (IFIP) Networking, 2025_
   
