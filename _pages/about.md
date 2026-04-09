@@ -39,8 +39,7 @@ Publications
   Alberto Najera, Harkirat Singh, Chandra Shekhar Pandey, **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
    _IEEE Integrated STEM Education Conference (ISEC), 2024_
 
-
-Research Presentations
+Talks & Presentations
 ======
 
 - [_To adopt or not to adopt L4S-compatible congestion control? Understanding performance in a partial L4S deployment_](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-to-adopt-or-not-to-adopt-l4s-compatible-congestion-control-understanding-performance-in-a-partial-l4s-deployment-01.pdf), presented at [_**IETF122 - Measurement & Analysis for Protocols Research Group
@@ -54,6 +53,14 @@ Industrial Experience
 - Network Reliability Research Co-op at **Nokia Bell Labs** (Fall 2025)
 - Network Reliability Research Intern at **Nokia Bell Labs** (Summer 2025)
 - R&I Wireless Intern at **InterDigital** (Summer 2024)
+
+Honors and Awards
+======
+
+- **Dante Youla Award for Graduate Research Excellence,** NYU Electrical and Computer Engineering, 2026
+- **School of Engineering Fellowship,** NYU Tandon School of Engineering, 2022–Present
+- **Comprehensive Scholarship,** Bilkent University (full tuition and stipend), 2017–2022
+- **Ranked 450th** in the Turkish University Entrance Exam (LYS) among ~2 million students, 2017
 
 Services and Teaching Experience
 ======
