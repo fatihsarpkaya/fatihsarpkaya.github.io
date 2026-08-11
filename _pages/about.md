@@ -15,7 +15,7 @@ Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpka
 
 Publications
 ======
-- **Evaluation of TCP Congestion Control for Public High-Performance Wide-Area Networks** [[paper](https://ieeexplore.ieee.org/document/11615188)]  
+- **Evaluation of TCP Congestion Control for Public High-Performance Wide-Area Networks** [[paper](https://ieeexplore.ieee.org/document/11615188)] [[slides]](https://fatihsarpkaya.github.io/files/HPSR-nokia.pdf)]  
   **Fatih Berkay Sarpkaya**, Andrea Francini, Bilgehan Erman, Shivendra Panwar                                    
    _IEEE High-Performance Switching and Routing (HPSR), 2026_
   
