@@ -13,6 +13,14 @@ Hi, I am Fatih! I am a fourth-year PhD Candidate in Electrical Engineering at [N
 
 Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpkaya_CV.pdf).
 
+Industrial Experience
+======
+
+- AI Network Observability Research Intern at **Microsoft** (Summer 2026)
+- Network Reliability Research Co-op at **Nokia Bell Labs** (Fall 2025)
+- Network Reliability Research Intern at **Nokia Bell Labs** (Summer 2025)
+- R&I Wireless Intern at **InterDigital** (Summer 2024)
+
 Publications
 ======
 - **Extending Low Latency Service Across the Internet**  
@@ -55,14 +63,6 @@ Talks & Presentations
 (MAPRG) meeting**_](https://datatracker.ietf.org/meeting/122/proceedings) (March 2025)
 
 - [_L4S in Practice: Assessing the Feasibility of Incremental Deployment_](https://fatihsarpkaya.github.io/files/L4S_in_Practice_Assessing_the_Feasibility_of_Incremental_Deployment.pdf), presented at [_**KNIT 8: A FABRIC Community Workshop**_](https://learn.fabric-testbed.net/knowledge-base/knit-8-a-fabric-community-workshop/) (March 2024)
-
-Industrial Experience
-======
-
-- AI Network Observability Research Intern at **Microsoft** (Summer 2026)
-- Network Reliability Research Co-op at **Nokia Bell Labs** (Fall 2025)
-- Network Reliability Research Intern at **Nokia Bell Labs** (Summer 2025)
-- R&I Wireless Intern at **InterDigital** (Summer 2024)
 
 Honors and Awards
 ======
