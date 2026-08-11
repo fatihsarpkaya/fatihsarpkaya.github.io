@@ -16,9 +16,9 @@ Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpka
 Publications
 ======
 - **Extending Low Latency Service Across the Internet**  
-  Harkirat Singh<sup>*</sup>, **Fatih Berkay Sarpkaya**<sup>*</sup>, Hakan Gulec, Fraida Fund, Shivendra Panwar                                    
-   _IEEE International Conference on Network Protocols (ICNP), 2026_
-  <sup>*</sup>Equal contribution.
+  Harkirat Singh\*, **Fatih Berkay Sarpkaya**\*, Hakan Gulec, Fraida Fund, Shivendra Panwar                                    
+   _IEEE International Conference on Network Protocols (ICNP), 2026_  
+  \*Equal contribution.
 
 - **Inherited Fragility in Dual-Queue AQMs under Heterogeneous Congestion Control**  
   **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
