@@ -15,6 +15,15 @@ Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpka
 
 Publications
 ======
+- **Extending Low Latency Service Across the Internet**  
+  Harkirat Singh<sup>*</sup>, **Fatih Berkay Sarpkaya**<sup>*</sup>, Hakan Gulec, Fraida Fund, Shivendra Panwar                                    
+   _IEEE International Conference on Network Protocols (ICNP), 2026_
+  <sup>*</sup>Equal contribution.
+
+- **Inherited Fragility in Dual-Queue AQMs under Heterogeneous Congestion Control**  
+  **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
+   _Under Review_
+  
 - **Evaluation of TCP Congestion Control for Public High-Performance Wide-Area Networks** [[paper](https://ieeexplore.ieee.org/document/11615188)] [[slides](https://fatihsarpkaya.github.io/files/HPSR-nokia.pdf)]  
   **Fatih Berkay Sarpkaya**, Andrea Francini, Bilgehan Erman, Shivendra Panwar                                    
    _IEEE High-Performance Switching and Routing (HPSR), 2026_
@@ -50,6 +59,7 @@ Talks & Presentations
 Industrial Experience
 ======
 
+- AI Network Observability Research Intern at **Microsoft** (Summer 2026)
 - Network Reliability Research Co-op at **Nokia Bell Labs** (Fall 2025)
 - Network Reliability Research Intern at **Nokia Bell Labs** (Summer 2025)
 - R&I Wireless Intern at **InterDigital** (Summer 2024)
