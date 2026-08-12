@@ -16,7 +16,7 @@ Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpka
 Industrial Experience
 ======
 
-- AI Network Observability Research Intern at **Microsoft** (Summer 2026)
+- AI Network Observability Research Intern at **Microsoft Research** (Summer 2026)
 - Network Reliability Research Co-op at **Nokia Bell Labs** (Fall 2025)
 - Network Reliability Research Intern at **Nokia Bell Labs** (Summer 2025)
 - R&I Wireless Intern at **InterDigital** (Summer 2024)
