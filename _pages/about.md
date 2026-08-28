@@ -23,7 +23,7 @@ Industrial Experience
 
 Publications
 ======
-- **Extending Low Latency Service Across the Internet**  
+- **Extending Low Latency Service Across the Internet** [[paper](https://arxiv.org/abs/2608.26601)]  
   Harkirat Singh\*, **Fatih Berkay Sarpkaya**\*, Hakan Gulec, Fraida Fund, Shivendra Panwar                                    
    _IEEE International Conference on Network Protocols (ICNP), 2026_  
   \*Equal contribution.
