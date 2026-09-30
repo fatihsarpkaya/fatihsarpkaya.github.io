@@ -14,7 +14,7 @@ Hi, I am Fatih! I am a fifth-year PhD Candidate in Electrical Engineering at [NY
 <div style="
   margin: 1.5rem 0;
   padding: 0.65rem 1rem;
-  border: 1.5px solid #6c8ebf;
+  border: 1px solid #888888;
   background: #ffffff;
   font-size: 1.05rem;
   font-weight: 600;
