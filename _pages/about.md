@@ -12,15 +12,15 @@ redirect_from:
 Hi, I am Fatih! I am a fifth-year PhD Candidate in Electrical Engineering at [NYU WIRELESS](https://wireless.engineering.nyu.edu), New York University, under the supervision of Professor Shivendra Panwar. I received my Bachelor of Science degree in [Electrical and Electronics Engineering](https://ee.bilkent.edu.tr/en/) from Bilkent University in 2022. My current research interests include transport- and network-layer solutions, congestion control, low-latency networking, and data center networking.
 
 <div style="
-  margin: 2rem 0 1.5rem 0;
-  padding: 1rem 1.5rem;
-  border: 2px solid #d94b4b;
+  margin: 1.5rem 0;
+  padding: 0.65rem 1rem;
+  border: 1.5px solid #6c8ebf;
   background: #ffffff;
-  font-size: 1.45rem;
-  font-weight: 700;
-  line-height: 1.5;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.4;
 ">
-  I am currently on the job market and seeking full-time research and engineering positions starting in June 2027. Feel free to reach out!
+  I am currently on the job market, available for full-time research and engineering positions starting in June 2027. Feel free to reach out!
 </div>
 
 Here’s my [résumé](https://fatihsarpkaya.github.io/files/Fatih_Berkay_Sarpkaya_CV.pdf).
