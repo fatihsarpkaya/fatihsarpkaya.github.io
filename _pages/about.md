@@ -87,6 +87,6 @@ Honors and Awards
 Services and Teaching Experience
 ======
 
-- Reviewer for IEEE Transactions on Communications.
+- Reviewer for IEEE Transactions on Communications and IEEE GLOBECOM 2026 Workshops (Trust and Intelligence-Native Networks and Systems — TINS).
 - Course Assistant for Internet Architecture & Protocols (ECE–GY 6353) in Fall 2023 and Spring 2024.
 - Course Assistant for Communication Networks (ECE–UY 3613) in Spring 2023.
