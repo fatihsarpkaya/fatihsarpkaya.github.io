@@ -35,14 +35,14 @@ Industrial Experience
 
 Publications
 ======
+- **When Coupling Backfires: BBR-Induced L4S Degradation under DualPI2**  
+  **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
+   _IEEE Consumer Communications & Networking Conference (CCNC 2027) – LATENCY Workshop_
+
 - **Extending Low Latency Service Across the Internet** [[paper](https://arxiv.org/abs/2608.26601)]  
   Harkirat Singh\*, **Fatih Berkay Sarpkaya**\*, Hakan Gulec, Fraida Fund, Shivendra Panwar                                    
    _IEEE International Conference on Network Protocols (ICNP), 2026_  
   \*Equal contribution.
-
-- **Inherited Fragility in Dual-Queue AQMs under Heterogeneous Congestion Control**  
-  **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
-   _Under Review_
   
 - **Evaluation of TCP Congestion Control for Public High-Performance Wide-Area Networks** [[paper](https://ieeexplore.ieee.org/document/11615188)] [[slides](https://fatihsarpkaya.github.io/files/HPSR-nokia.pdf)]  
   **Fatih Berkay Sarpkaya**, Andrea Francini, Bilgehan Erman, Shivendra Panwar                                    
