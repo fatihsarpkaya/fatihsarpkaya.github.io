@@ -37,7 +37,7 @@ Publications
 ======
 - **When Coupling Backfires: BBR-Induced L4S Degradation under DualPI2**  
   **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
-   _IEEE Consumer Communications & Networking Conference (CCNC 2027) – LATENCY Workshop_
+   _IEEE Consumer Communications & Networking Conference (CCNC), 2027 – LATENCY Workshop_
 
 - **Extending Low Latency Service Across the Internet** [[paper](https://arxiv.org/abs/2608.26601)]  
   Harkirat Singh\*, **Fatih Berkay Sarpkaya**\*, Hakan Gulec, Fraida Fund, Shivendra Panwar                                    
