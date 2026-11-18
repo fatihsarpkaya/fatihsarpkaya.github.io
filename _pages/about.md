@@ -70,6 +70,8 @@ Publications
 
 Talks & Presentations
 ======
+- [_Extending Low Latency Service Across the Internet_](https://datatracker.ietf.org/meeting/127/materials/slides-127-iccrg-extending-low-latency-service-across-the-internet-00), presented at [_**IETF127 - Internet Congestion Control Research Group
+(ICCRG) meeting**_](https://datatracker.ietf.org/meeting/127/proceedings) (November 2026)
 
 - [_To adopt or not to adopt L4S-compatible congestion control? Understanding performance in a partial L4S deployment_](https://datatracker.ietf.org/meeting/122/materials/slides-122-maprg-to-adopt-or-not-to-adopt-l4s-compatible-congestion-control-understanding-performance-in-a-partial-l4s-deployment-01.pdf), presented at [_**IETF122 - Measurement & Analysis for Protocols Research Group
 (MAPRG) meeting**_](https://datatracker.ietf.org/meeting/122/proceedings) (March 2025)
