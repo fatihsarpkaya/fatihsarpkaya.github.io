@@ -35,7 +35,7 @@ Industrial Experience
 
 Publications
 ======
-- **When Coupling Backfires: BBR-Induced L4S Degradation under DualPI2**  
+- **When Coupling Backfires: BBR-Induced L4S Degradation under DualPI2** [[paper](https://arxiv.org/abs/2611.31634)]  
   **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
    _IEEE Consumer Communications & Networking Conference (CCNC), 2027 – LATENCY Workshop_
 
