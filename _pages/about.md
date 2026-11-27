@@ -39,7 +39,7 @@ Publications
   **Fatih Berkay Sarpkaya**, Fraida Fund, Shivendra Panwar                                    
    _IEEE Consumer Communications & Networking Conference (CCNC), 2027 – LATENCY Workshop_
 
-- **Extending Low Latency Service Across the Internet** [[paper](https://arxiv.org/abs/2608.26601)] [[slides](https://datatracker.ietf.org/meeting/127/materials/slides-127-iccrg-extending-low-latency-service-across-the-internet-00)]  
+- **Extending Low Latency Service Across the Internet** [[paper](https://ieeexplore.ieee.org/document/11783020)] [[slides](https://datatracker.ietf.org/meeting/127/materials/slides-127-iccrg-extending-low-latency-service-across-the-internet-00)]  
   Harkirat Singh\*, **Fatih Berkay Sarpkaya**\*, Hakan Gulec, Fraida Fund, Shivendra Panwar                                    
    _IEEE International Conference on Network Protocols (ICNP), 2026_  
   \*Equal contribution.
